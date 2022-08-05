@@ -2,8 +2,8 @@
 // the task condition is in the Readme file
 
 
-double func(int a, int b) {
-    return a/b;
+int func(int a, int b) {
+    return a~/b;
 }
 
 void main() {
